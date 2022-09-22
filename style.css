@@ -17,16 +17,7 @@ header {
 }
 
 
-.nav-list {
-    line-height: 100px;
-    list-style: none;
-    font-weight: bold;
-}
-.nav-list-item {
-    list-style: none;
-    display: inline-block;
-    margin: 0 50px;
-  }
+
 body{
     background-color:#fff;
     font-family: serif;
@@ -39,7 +30,6 @@ h2{
 img{
     size:50px;
 }
-
 
 
 footer{
