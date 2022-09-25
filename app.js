@@ -6,7 +6,3 @@ $(window).on('scroll', function() {
     }
   });
   
-  $('.c-toTop > a').on('click', function() {
-    $('body,html').animate({scrollTop: 0}, 500);
-    return false;
-  });
